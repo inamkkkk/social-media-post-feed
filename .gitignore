@@ -1,0 +1,17 @@
+### Dart/Flutter ###
+.dart_tool/
+.flutter-plugins
+.flutter-plugin-dependencies
+.packages
+*.iml
+*.swp
+*.DS_Store
+android/build/
+ios/Pods/
+ios/.symlinks/
+ios/Frameworks/
+ios/build/
+web/build/
+build/
+.idea/
+*.dart_tool
